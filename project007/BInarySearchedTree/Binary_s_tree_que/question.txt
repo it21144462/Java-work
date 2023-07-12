@@ -1,0 +1,17 @@
+Implement a Node class to store a height of a child. 
+In the same class implement displayNode() method to 
+display the data stored in the Node.
+
+implement the tree class with following members and methods
+
+----------------------------------
+                Tree
+----------------------------------
+Node root
+----------------------------------
+void insert(int height)
+Node minimum()
+Node maxmum()
+void descendingOrder()
+----------------------------------
+
